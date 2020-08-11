@@ -81,7 +81,9 @@ extension MapScreen: CLLocationManagerDelegate {
 
 
 
-/* MARK: Alternate Method
+
+
+  /*********************** MARK: Alternate Method ************************
 import UIKit
 import MapKit
 class MapScreen: UIViewController {
@@ -133,4 +135,5 @@ extension MapScreen: CLLocationManagerDelegate {
         print(error.localizedDescription)
      }
 }
-*/
+
+ *********************** MARK: Alternate Method ************************/
